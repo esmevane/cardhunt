@@ -8,7 +8,8 @@
 #
 
 React   = require 'react'
+Card    = require './components/card'
 element = document.getElementById('application-root')
-content = <p>React: Loaded</p>
+content = <Card />
 
 React.render content, element

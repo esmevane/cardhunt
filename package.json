@@ -17,7 +17,7 @@
     "grunt-react": "^0.10.0",
     "matchdep": "0.3.0",
     "node-neat": "1.1.0",
-    "react": "^0.12.2"
+    "react": "^0.13.0-rc1"
   },
   "dependencies": {}
 }
